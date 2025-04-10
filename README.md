@@ -1,8 +1,16 @@
 # Testes Unitários - PHP
-🚀 Como Executar
+
+## 🚀 Como Executar
+
+Para rodar os testes unitários, utilize o seguinte comando no terminal:
+
+```bash
 ./vendor/bin/phpunit tests
+```
+## 👨‍💻 Estudantes
+Jefferson Alan Schmidt Ludwig
 
-# 👨‍💻 Integrantes / Autores 
-# JEFFERSON ALAN SCHMIDT LUDWIG e IRAÊ ERVIN GRUBER DA SILVA.
+Iraê Ervin Gruber da Silva
 
-# Professor:ROBERSON JUNIOR FERNANDES ALVES
+## 👨‍🏫 Professor
+Roberson Junior Fernandes Alves
